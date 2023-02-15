@@ -116,3 +116,6 @@ __________________________
 
 <!-- ШПАРГАЛКА по смайликам Markdown-->
 [Шпаргалка по смайликам Markdown](https://www.webfx.com/tools/emoji-cheat-sheet/ "Смайлики")
+
+<!-- Ссылка по оформлению на HTML -->
+[Ссылка по оформлению на HTML](https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17)
